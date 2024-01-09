@@ -1,5 +1,7 @@
 # Rationally designed RNA sensors that compute increasingly complex functions of multiple inputs Data
 
+biorxiv link: https://www.biorxiv.org/content/10.1101/2024.01.04.572289v1
+
 Data used to compile figures in the manuscript: 
 
 Christian Choe, Johan O. L. Andreasson, Feriel Melaine, Wipapat Kladwang, Michelle J. Wu, Fernando Portela, Roger Wellington-Oguri, John J. Nicol, Hannah K. Wayment-Steele, Michael Gotrik, Eterna Participants, Purvesh Khatri, William J. Greenleaf, Rhiju Das (2023) **Rationally designed RNA sensors that compute increasingly complex functions of multiple inputs**. 
